@@ -2,7 +2,7 @@
 Hello! Welcome to my page.
 My name is Matthew, but you can call me Matt.
 
-<img src="/assets/12326.jpeg" style="height:20%; width:20%;">
+<a href="assets/12326.jpeg"><img src="assets/12326.jpeg" width="100" height="200"/></a>
 
 I am a computer information systems major a CSU Chico State. 
 
