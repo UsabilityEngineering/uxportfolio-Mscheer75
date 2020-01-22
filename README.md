@@ -6,7 +6,7 @@ My name is Matthew, but you can call me Matt.
 
 I am a computer information systems major a CSU Chico State. 
 
-The reason why I am taking this class is that 
+The reason why I am taking this class is that I think functional design is important, not only for the ease of use, but for the longivity for the product. 
 
 ## UX Team Project
 
