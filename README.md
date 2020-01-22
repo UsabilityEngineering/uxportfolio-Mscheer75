@@ -1,8 +1,7 @@
 # UX Portfolio
 Hello! Welcome to my page.
 My name is Matthew, but you can call me Matt.
-![me](https://github.com/UsabilityEngineering/uxportfolio-Mscheer75/blob/master/assets/12326.jpeg){:height="50%" width="50%"}
-
+![me](https://github.com/UsabilityEngineering/uxportfolio-Mscheer75/blob/master/assets/12326.jpeg?s=200)
 
 I am a computer information systems major a CSU Chico State. 
 
