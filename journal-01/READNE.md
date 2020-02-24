@@ -7,3 +7,6 @@ I spend the 12$ to include most of the DLC with the game, as I was wanting to pl
 What I didn't realize was that the game was a nightmare of usability, which explains why it was only a dollar.
 
 we first start off with the main menu, which is fairly simple and straight forward, you have your Profile, create a map, the Store, ETC. I just wanted to jump straight in and drive a train. 
+
+<a href="assets/trainSimMenu.png"><img src="assets/trainSimMenu.png"/></a>
+
