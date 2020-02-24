@@ -19,7 +19,7 @@ And this is what I was greeted with:
 
 
 Super confusing, convoluted and a labyrinth of buttons. My goal was to drive a train on a California route, but I see 4 options, Quick Drive, Career, Standard and Free Roam. I navigated to free roam.
-When I clicked it, I was greeted with nothing, no way to select a route or a train. The filter was on all scenarios, but nothing was showing up. So clearly this was the wrong menu. 
+When I clicked it, I was greeted with nothing, no way to select a route or a train. The filter was on "Show All Scenarios", but nothing was showing up. So clearly this was the wrong menu. 
 
 ![menu3](https://raw.githubusercontent.com/UsabilityEngineering/uxportfolio-Mscheer75/master/assets/trainsimmenu3.png)
 
