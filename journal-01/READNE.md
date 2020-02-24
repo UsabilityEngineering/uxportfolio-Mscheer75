@@ -4,11 +4,11 @@ Matthew Scheer
 
 A buggy menu mess of a game "Train simulator 2020"
 
-When I saw Train simulator 2020 on the humble bundle for 1$, I was super excited. 
-I spend the 12$ to include most of the DLC with the game, as I was wanting to play one of the California maps in the game.
+When I saw Train simulator 2020 on the humble bundle for 1$, I was super excited. I made the hard choice and 
+spent the 12$ to include most of the DLC with the game, as I was wanting to play one of the California maps in the game.
 What I didn't realize was that the game was a nightmare of usability, which explains why it was only a dollar.
 
-we first start off with the main menu, which is fairly simple and straight forward, you have your Profile, create a map, the Store, ETC. I just wanted to jump straight in and drive a train. So 
+we first start off with the main menu, which is fairly simple and straight forward, you have your Profile, create a map, the Store, ETC. I just wanted to jump straight in and drive a train on a California route. So 
 I hit the drive buttton.
 
 ![alt text](https://raw.githubusercontent.com/UsabilityEngineering/uxportfolio-Mscheer75/master/assets/trainSimMenu.png)
