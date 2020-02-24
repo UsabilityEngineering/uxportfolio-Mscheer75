@@ -23,7 +23,7 @@ When I clicked it, I was greeted with nothing, no way to select a route or a tra
 
 ![menu3](https://raw.githubusercontent.com/UsabilityEngineering/uxportfolio-Mscheer75/master/assets/trainsimmenu3.png)
 
-I navigated back to the menu menu and hit “Quick drive”, but all there was, was a random button. No way to choose what to drive. Just click and hope you get something you wanted. So I navigated to “Standard”.
+I navigated back to the menu menu and hit “Quick drive”, but all there was, was a random button. No way to choose what to drive. So much for "customize your experience". Just click and hope you get something you wanted. So I navigated to “Standard”.
 
 ![menu4](https://raw.githubusercontent.com/UsabilityEngineering/uxportfolio-Mscheer75/master/assets/trainSimMenu4.png)
 
