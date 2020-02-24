@@ -44,7 +44,7 @@ Was it “effective” in my goal? No, graphics were nice though.
 
 Efficient? I had to click through 5 menus just to find out I couldn't play the California map I purchased.
 
-Safe? For the most part, its a game, so nothing personal is stored on it.
+Safe? For the most part, it's a game, so nothing personal is stored on it.
 
 Satisfying? Absolutely not. They could of at least have a pop-up saying I need to “complete XYZ” in order to unlock such and such map. Which I would understand, but having nothing is completely frustrating. It's a SIMULATOR, not some arcade game. Everything should be unlocked from the start.
 
