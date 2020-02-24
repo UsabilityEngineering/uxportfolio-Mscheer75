@@ -30,9 +30,33 @@ I navigated back to the menu menu and hit “Quick drive”, but all there was, 
 
 
 
+
+
 What I was greeted with in “Standard” was a single route in Germany. Clearly this isn't California. Frustrated I just quit the game, and played something else.
 
 ![menu5](https://raw.githubusercontent.com/UsabilityEngineering/uxportfolio-Mscheer75/master/assets/trainSimMenu5.png)
+
+
+
+Going over the concepts in class, effective, efficient, safe, satisfying, learnable, memorable, useful, and error tolerant.
+
+Was it “effective” in my goal? No, graphics were nice though.
+
+Efficient? I had to click through 5 menus just to find out I couldn't play the California map I purchased.
+
+Safe? For the most part, its a game, so nothing personal is stored on it.
+
+Satisfying? Absolutely not. They could of at least have a pop-up saying I need to “complete XYZ” in order to unlock such and such map. Which I would understand, but having nothing is completely frustrating. It's a SIMULATOR, not some arcade game. Everything should be unlocked from the start.
+
+Learnable? I would say it is, since the menu is consistent, and fairly easy to navigate, since you really only have one option.
+
+Memorable? In the absolute wrong way it is. 
+
+Useful? Well considering it is a game, in which you can't play the map you want to play, it isn't useful. I Would have a better time playing with google maps, and following the railroad tracks.
+
+Error tolerant? No, It caused a buffer over flow and locked my computer the first time I was typing this out and locked me out of my computer. Terrible game, save your 1$ for a soda.
+
+
 
 
 
