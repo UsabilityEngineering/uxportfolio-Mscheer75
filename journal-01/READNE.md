@@ -8,5 +8,6 @@ What I didn't realize was that the game was a nightmare of usability, which expl
 
 we first start off with the main menu, which is fairly simple and straight forward, you have your Profile, create a map, the Store, ETC. I just wanted to jump straight in and drive a train. 
 
-<a href="assets/trainSimMenu.png"><img src="assets/trainSimMenu.png"/></a>
+
+![alt text](https://raw.githubusercontent.com/UsabilityEngineering/uxportfolio-Mscheer75/master/assets/trainSimMenu.png)
 
