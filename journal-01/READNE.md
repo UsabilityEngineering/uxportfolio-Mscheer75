@@ -1,5 +1,7 @@
 #My first journal entry 
+
 Matthew Scheer
+
 A buggy menu mess of a game "Train simulator 2020"
 
 When I saw Train simulator 2020 on the humble bundle for 1$, I was super excited. 
