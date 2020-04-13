@@ -14,3 +14,4 @@ The reason why I am taking this class is that I think functional design is impor
 ## UX Journal
 [This is my first journal entry](journal-01/READNE.md/)
 
+[This is my first journal entry](journal-w/readME.md/)
