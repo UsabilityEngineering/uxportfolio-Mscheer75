@@ -11,8 +11,7 @@ No pesky app you have to download, just a simple website you can directly order 
 
 First off, you are greeted with red menu on top, which draws your attention. 
 My main goal was ordering take-out online. So I hit the “Order online” button. 
-![alt text](https://raw.githubusercontent.com/UsabilityEngineering/uxportfolio-Mscheer75/master/assets/burito1.png)
-
+![alt text](https://raw.githubusercontent.com/UsabilityEngineering/uxportfolio-Mscheer75/master/assets/burito1.PNG)
 The next screen, brings up a map of locations near you that you can order from. 
 On the left, you can click on which place you would like to order. 
 ![alt text](https://raw.githubusercontent.com/UsabilityEngineering/uxportfolio-Mscheer75/master/assets/burito2.png)
