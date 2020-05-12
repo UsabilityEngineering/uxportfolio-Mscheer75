@@ -11,20 +11,20 @@ No pesky app you have to download, just a simple website you can directly order 
 
 First off, you are greeted with red menu on top, which draws your attention. 
 My main goal was ordering take-out online. So I hit the “Order online” button. 
-1
+![alt text](https://raw.githubusercontent.com/UsabilityEngineering/uxportfolio-Mscheer75/master/assets/burito1.png)
 
 The next screen, brings up a map of locations near you that you can order from. 
 On the left, you can click on which place you would like to order. 
-2
+![alt text](https://raw.githubusercontent.com/UsabilityEngineering/uxportfolio-Mscheer75/master/assets/burito2.png)
 
 On the order screen, it gives and entire menu which you can click on the item you wish to order. 
-3
+![alt text](https://raw.githubusercontent.com/UsabilityEngineering/uxportfolio-Mscheer75/master/assets/burito3.png)
 After you click on the item, it brings up another menu, which you can select what ingredients you want on the item.
 After you selected that item, you can continually click on items you wish to order, till you are done.
-4
+![alt text](https://raw.githubusercontent.com/UsabilityEngineering/uxportfolio-Mscheer75/master/assets/burito4.png)
 On the checkout screen, it gives you options of when you would like to pick out the order, and if you would like to give a tip.
 On the right, it gives you a box of what is on the order, and what is on each item.
-5
+![alt text](https://raw.githubusercontent.com/UsabilityEngineering/uxportfolio-Mscheer75/master/assets/burito5.png)
 
 
 To analysis it from a usability perspective, (effective, efficient, safe, satisfying, learnable, memorable, useful, error tolerant.) I would say this is a really good web application. 
