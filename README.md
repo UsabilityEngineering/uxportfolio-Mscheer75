@@ -17,4 +17,4 @@ The reason why I am taking this class is that I think functional design is impor
 [This is my second journal entry](journal-2/readME.md/)
 
 
-[This is my second journal entry](journal-03/readME.md/)
+[This is my third journal entry](journal-03/readME.md/)
