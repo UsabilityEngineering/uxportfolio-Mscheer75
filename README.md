@@ -10,6 +10,8 @@ The reason why I am taking this class is that I think functional design is impor
 
 ## UX Team Project
 
+https://usabilityengineering.github.io/GroceryPals/
+
 
 ## UX Journal
 [This is my first journal entry](journal-01/READNE.md/)
